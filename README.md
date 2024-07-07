@@ -1,1 +1,1 @@
-# Multiple_health_diesease_prediction
+# Multiple_health_disease_prediction
